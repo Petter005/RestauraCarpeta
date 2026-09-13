@@ -29,4 +29,4 @@ Ahora puedes instalar **OptiScaler**, scripts, texturas o cualquier mod que requ
 * Sistema operativo **Windows**.
 * Ejecutar en una ruta con permisos de escritura (si tu juego está en `Program Files`, es posible que necesites ejecutar el script de restauración como Administrador).
 
-Únete al [Discord](https://discord.gg/UtX85nAdX)! de Petter005.
+Únete al [Discord](https://discord.gg/UtX85nAdX) de Petter005.
