@@ -1,6 +1,3 @@
-Únete al [Discord](https://discord.gg/UtX85nAdX)!
-
-
 # RestauraCarpeta 🎮✨
 
 **RestauraCarpeta** es una herramienta ligera y automatizada mediante scripts de Windows (`.bat`) diseñada para la comunidad de modding. Te permite tomar una "instantánea" de la carpeta limpia de cualquier juego antes de modificarlo, para que luego puedas eliminar por completo todos los mods, archivos añadidos y configuraciones con un solo clic, devolviendo el directorio a su estado original (Vanilla).
@@ -31,3 +28,5 @@ Ahora puedes instalar **OptiScaler**, scripts, texturas o cualquier mod que requ
 ## ⚠️ Requisitos
 * Sistema operativo **Windows**.
 * Ejecutar en una ruta con permisos de escritura (si tu juego está en `Program Files`, es posible que necesites ejecutar el script de restauración como Administrador).
+
+Únete al [Discord](https://discord.gg/UtX85nAdX)! de Petter005.
