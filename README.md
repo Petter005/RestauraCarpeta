@@ -1,3 +1,5 @@
+[![Discord](https://shields.io)](https://discord.gg/UtX85nAdX)
+
 # RestauraCarpeta 🎮✨
 
 **RestauraCarpeta** es una herramienta ligera y automatizada mediante scripts de Windows (`.bat`) diseñada para la comunidad de modding. Te permite tomar una "instantánea" de la carpeta limpia de cualquier juego antes de modificarlo, para que luego puedas eliminar por completo todos los mods, archivos añadidos y configuraciones con un solo clic, devolviendo el directorio a su estado original (Vanilla).
