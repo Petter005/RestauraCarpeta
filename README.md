@@ -1,5 +1,4 @@
-[![Discord](https://shields.io)](https://discord.gg/UtX85nAdX)
-Join our community on [Discord](https://discord.gg/UtX85nAdX)!
+Únete al discord! [Discord](https://discord.gg/UtX85nAdX)!
 
 
 # RestauraCarpeta 🎮✨
