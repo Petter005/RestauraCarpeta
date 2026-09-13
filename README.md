@@ -1,4 +1,4 @@
-Únete al discord! [Discord](https://discord.gg/UtX85nAdX)!
+Únete al [Discord](https://discord.gg/UtX85nAdX)!
 
 
 # RestauraCarpeta 🎮✨
